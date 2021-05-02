@@ -4,4 +4,4 @@ This project was bootstrapped with Create React App, it is a 1-hour experiment t
 <br>
 Photos are from [Unsplash](https://unsplash.com/)
 <br>
-You can test the demo [here](https://brendapc.github.io/react-carousel/)
+You can run the project installing the dependencies  with `npm i` and starting it with `yarn start`
